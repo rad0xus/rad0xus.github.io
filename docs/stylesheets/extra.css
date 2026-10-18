@@ -1,8 +1,4 @@
 /* Only affects the page that uses the about.html template */
-.md-header__button.md-logo {
-  display: none !important;
-}
-
 .machine-header {
   display: flex;
   align-items: center;

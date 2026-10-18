@@ -2,7 +2,7 @@
 <img src="../images/silentium/machine-icon.png" alt="machine-icon" class="machine-icon" />
 <div class="machine-title" markdown>
 <h1>Silentium</h1>
-<p class="machine-tags" markdown>:lucide-bird: Linux &nbsp;&nbsp; :lucide-bar-chart-3: Easy</p>
+<p class="machine-tags" markdown>Linux</p>
 </div>
 </div>
 ## Reconnaissance & Initial Enumeration

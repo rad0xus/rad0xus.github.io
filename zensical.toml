@@ -7,8 +7,9 @@ site_name = "parad0x"
 
 # copyright = "Copyright &copy; 2026 rad0xus"
 
-repo_url = "https://github.com/rad0xus/rad0xus.github.io"
-repo_name = "rad0xus/rad0xus.github.io"
+# repo_url = "https://github.com/rad0xus/rad0xus.github.io"
+# repo_name = "rad0xus/rad0xus.github.io"
+
 edit_uri = "edit/main/docs/"
 
 nav = [
