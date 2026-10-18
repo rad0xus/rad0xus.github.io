@@ -1,19 +1,16 @@
 ---
-template: about.html
 hide:
   - toc          
 ---
 
 # About
 
-IT student turned full-time cybersecurity obsessive. Grounded in offensive security and its best practices, approaching every engagement and every lab with the mindset, structure, and discipline of a professional security practitioner.
-
-This digital home of mine isn’t just a public lab notebook. It’s the full exploit chain of the decisions made at every step, with the **why** locking it in. Every move broken down so the flow from entry to objective stays sharp and complete.
+I am a cybersecurity practitioner with a particular interest in offensive security. Much of my learning comes from hands-on work, exploring different areas of cybersecurity, and understanding the technical details behind how things work. I enjoy taking on challenges, experimenting with different approaches, and learning something new along the way. This blog is where I share that work, from CTF challenges and machine write-ups to security research, technical explorations, and anything else I find worth digging into.
 
 ## Certifications
 
 ```txt
-  CRTA      Certified Red Team Analyst
+  CRTA      (CWL) Certified Red Team Analyst
 ```
 
 ## Projects
