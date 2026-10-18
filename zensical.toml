@@ -1,15 +1,15 @@
 [project]
-site_url = "https://www.example.com/"
+site_url = "https://rad0xus.github.io/"
 site_name = "parad0x"
 
 # site_description = "Your project description"
-# site_author = "Your name"
+# site_author = "rad0xus"
 
-# copyright = "Copyright &copy; 2026 Your name"
+# copyright = "Copyright &copy; 2026 rad0xus"
 
-# repo_url = "https://github.com/user/repo"
-# repo_name = "user/repo"
-# edit_uri = "edit/main/docs/"
+repo_url = "https://github.com/rad0xus/rad0xus.github.io"
+repo_name = "rad0xus/rad0xus.github.io"
+edit_uri = "edit/main/docs/"
 
 nav = [
   { "About" = "index.md" },
@@ -28,6 +28,7 @@ extra_css = ["stylesheets/extra.css"]
 
 [project.plugins.redirects.redirect_maps]
 "silentium.md" = "writeups/silentium.md"
+"silentium/index.html" = "writeups/silentium.md"
 
 [project.theme]
 # variant = "classic"
@@ -109,8 +110,6 @@ pymdownx.arithmatex.generic = true
 pymdownx.betterem = {}
 pymdownx.caret = {}
 pymdownx.details = {}
-pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
-pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
 pymdownx.highlight.anchor_linenums = true
 pymdownx.highlight.line_spans = "__span"
 pymdownx.highlight.pygments_lang_class = true
@@ -130,4 +129,3 @@ pymdownx.tilde = {}
 
 [project.extra]
 generator = false
-
